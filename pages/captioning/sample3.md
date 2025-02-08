@@ -5,7 +5,7 @@
 
 &nbsp;
 
-<div class="scroll-box">
+<div style="max-height: 200px; overflow-y: auto; padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
   
 CLIP 1 
 
