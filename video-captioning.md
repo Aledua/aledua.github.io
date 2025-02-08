@@ -5,7 +5,7 @@
 
 &nbsp;
  
-### Sample 1
+### <center>Sample 1</center>
 ![test1](./assets/img/sample1.gif)
 <details>
   <summary>
@@ -221,7 +221,7 @@ The video ends abruptly.
 
 &nbsp;
  
-### Sample 2
+### <center>Sample 2</center>
 ![test1](./assets/img/sample2.gif)
 <details>
   <summary>
@@ -260,7 +260,7 @@ The clip ends abruptly.
 
 &nbsp;
  
-### Sample 3
+### <center>Sample 3</center>
 ![test1](./assets/img/sample3.gif)
 <details>
   <summary>
