@@ -1,5 +1,4 @@
-## Video captioning samples
-Video captioning is a detailed process that involves generating comprehensive textual descriptions of visual content in a video. This includes describing every element, such as shapes, colors, and their locations on the screen. While it does encompass capturing text that appears in the foreground and background, such as dynamic subtitles or readable elements like logos and signs, these are just a portion of the overall task. The primary focus is on providing a thorough depiction of all visual aspects, ensuring that every detail is conveyed accurately. The final annotations can be tailored to the specific requirements of the model being trained and the client's needs.
+## [Video Captioning Samples] (./video-captioning.html)
 
 ## Transcription samples
 The following are basic examples of audio transcription in English and Spanish, complete with corresponding speaker identification labels, as well as tags for interruptions, breathing, side speech, pauses, etc. The labels provided are for illustrative purposes only, and the timestamps can be adjusted according to the client's preferences. In these particular examples, a fast-food restaurant was randomly selected, and names, brands, and any items that may appear on the menu are highlighted in uppercase for the purpose of entity recognition in training a language model.
