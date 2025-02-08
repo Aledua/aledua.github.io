@@ -1,4 +1,4 @@
-[<h2 style="text-align:center;">Video Captioning Samples</h2>](./video-captioning.html)
+[<center><h2>Video Captioning Samples</h2></center>](./video-captioning.html)
 [![video-captioning](https://raw.githubusercontent.com/Aledua/aledua.github.io/refs/heads/main/assets/img/video-captioning.png)](./video-captioning.html)
 
 ## [<h3 style="text-align:center;">Transcription Samples</h3>](./transcription.html)
