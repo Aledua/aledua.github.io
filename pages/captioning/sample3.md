@@ -4,7 +4,9 @@
 <iframe width="420" height="315" src="./sample3.mp4" frameborder="0" allowfullscreen></iframe>
 
 &nbsp;
-```
+
+  - type: markdown
+    content: |
 CLIP 1 
 
 <00:00.000> - <00:05.759>
@@ -65,4 +67,10 @@ The cat lowers its gaze slightly, looking directly at the camera.
 The cat slightly raises its gaze, looking toward the left corner of the screen.
 
 The video ends.
-```{r, max.height='100px'}
+
+ card_mod:
+      style: |
+        ha-markdown {
+          max-height: 200px;
+          overflow-y: auto;
+        }
