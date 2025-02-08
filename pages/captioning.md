@@ -7,7 +7,7 @@
  
 ### <center>Sample 1</center>
 <center><iframe width="420" height="315" src="./sample1.mp4" frameborder="0" allowfullscreen></iframe></center>
-<div style="max-height: 200px; overflow-y: auto; padding: 10px; border: 1px solid #ccc; border-radius: 5px; white-space: pre-wrap; word-wrap: break-word;">
+<center><div style="max-height: 200px; overflow-y: auto; padding: 10px; border: 1px solid #ccc; border-radius: 5px; white-space: pre-wrap; word-wrap: break-word;">
 CLIP 1 
 
 <01:57.480> - <02:03.480>
@@ -214,12 +214,12 @@ In the upper left corner, above the gray structure, there is more green foliage 
 In the top right corner, the top of the light gray structure is more visible. It has a rectangular base that narrows up to a point. The very top is cut off on the top right edge of the frame. Overgrown dark green grass is visible behind it.
 
 The video ends abruptly.
-</div>
+</div></center>
 &nbsp;
  
 ### <center>Sample 2</center>
 <center><iframe width="420" height="315" src="./sample2.mp4" frameborder="0" allowfullscreen></iframe></center>
-<div style="max-height: 200px; overflow-y: auto; padding: 10px; border: 1px solid #ccc; border-radius: 5px; white-space: pre-wrap; word-wrap: break-word;">
+<center><div style="max-height: 200px; overflow-y: auto; padding: 10px; border: 1px solid #ccc; border-radius: 5px; white-space: pre-wrap; word-wrap: break-word;">
 Video Type: Live Action
 Camera Motion: Dolly in
 Camera Height: Eye Level
@@ -249,12 +249,12 @@ The woman tilts her head upward.
 The woman's lips extend further into a smile while she continues to look toward the camera.
 
 The clip ends abruptly.
-</div>
+</div></center>
  &nbsp;
  
 ### <center>Sample 3</center>
 <center><iframe width="420" height="315" src="./sample3.mp4" frameborder="0" allowfullscreen></iframe></center>
-<div style="max-height: 200px; overflow-y: auto; padding: 10px; border: 1px solid #ccc; border-radius: 5px; white-space: pre-wrap; word-wrap: break-word;">
+<center><div style="max-height: 200px; overflow-y: auto; padding: 10px; border: 1px solid #ccc; border-radius: 5px; white-space: pre-wrap; word-wrap: break-word;">
 CLIP 1 
 
 <00:00.000> - <00:05.759>
@@ -316,5 +316,4 @@ The cat slightly raises its gaze, looking toward the left corner of the screen.
 
 The video ends.
 
-</div>
-
+</div></center>
