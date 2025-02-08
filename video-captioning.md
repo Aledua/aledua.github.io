@@ -6,7 +6,7 @@
 
 ### Sample 1
 
-<video src='https://github.com/user-attachments/assets/95335285-2c6e-4565-b458-0fbddec5bc64' width=180/></video>
+<video src="https://github.com/user-attachments/assets/95335285-2c6e-4565-b458-0fbddec5bc64.mp4"></video>
 
 <details>
   <summary>
