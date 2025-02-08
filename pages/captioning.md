@@ -5,7 +5,7 @@
 
 &nbsp;
  
-### [<center>Sample 1</center>]
+### <center>Sample 1</center>
 <center><iframe width="420" height="315" src="./sample1.mp4" frameborder="0" allowfullscreen></iframe></center>
 <div style="max-height: 200px; overflow-y: auto; padding: 10px; border: 1px solid #ccc; border-radius: 5px; white-space: pre-wrap; word-wrap: break-word;">
 CLIP 1 
@@ -217,7 +217,7 @@ The video ends abruptly.
 </div>
 &nbsp;
  
-### [<center>Sample 2</center>]
+### <center>Sample 2</center>
 <center><iframe width="420" height="315" src="./sample2.mp4" frameborder="0" allowfullscreen></iframe></center>
 <div style="max-height: 200px; overflow-y: auto; padding: 10px; border: 1px solid #ccc; border-radius: 5px; white-space: pre-wrap; word-wrap: break-word;">
 Video Type: Live Action
