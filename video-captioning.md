@@ -1,9 +1,3 @@
-pre {
-  white-space: pre !important;
-  overflow-y: scroll !important;
-  max-height: 100px !important;
-}
-
 # [↩](./)
 
 ## <center>Video captioning samples</center>
@@ -14,7 +8,8 @@ pre {
 ### <center>Sample 1</center>
 ![test1](./assets/img/sample1.gif)
 
-<pre class="table" style="max-height: 100px;">
+pn.pane.HTML('''<div style="width:150px;height:150px;line-height:3em;overflow:scroll;padding:5px;">
+
   CLIP 1 
 
 <01:57.480> - <02:03.480>
@@ -221,7 +216,7 @@ In the upper left corner, above the gray structure, there is more green foliage 
 In the top right corner, the top of the light gray structure is more visible. It has a rectangular base that narrows up to a point. The very top is cut off on the top right edge of the frame. Overgrown dark green grass is visible behind it.
 
 The video ends abruptly.
-</pre>
+</div>''')
 
 &nbsp;
  
