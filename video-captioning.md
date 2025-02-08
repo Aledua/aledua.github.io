@@ -1,3 +1,5 @@
-# Video captioning samples
+# [<center>↩</center>](./)
+
+## Video captioning samples
 Video captioning is a detailed process that involves generating comprehensive textual descriptions of visual content in a video. This includes describing every element, such as shapes, colors, and their locations on the screen. While it does encompass capturing text that appears in the foreground and background, such as dynamic subtitles or readable elements like logos and signs, these are just a portion of the overall task. The primary focus is on providing a thorough depiction of all visual aspects, ensuring that every detail is conveyed accurately. The final annotations can be tailored to the specific requirements of the model being trained and the client's needs.
 
