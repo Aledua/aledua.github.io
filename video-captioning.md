@@ -5,4 +5,9 @@
 
 ![Test1](https://github.com/Aledua/aledua.github.io/raw/refs/heads/main/assets/vid/test1.mp4)
 
-Text
+<details>
+  <summary>
+    Text
+  </summary>
+  details
+</details>
