@@ -7,9 +7,9 @@
  
 ### <center>Sample 1</center>
 
-<iframe width="420" height="315" src="./assets/vid/test1.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="./assets/vid/test3.mp4" frameborder="0" allowfullscreen></iframe>
 
-'''
+```
   CLIP 1 
 
 <01:57.480> - <02:03.480>
@@ -216,12 +216,14 @@ In the upper left corner, above the gray structure, there is more green foliage 
 In the top right corner, the top of the light gray structure is more visible. It has a rectangular base that narrows up to a point. The very top is cut off on the top right edge of the frame. Overgrown dark green grass is visible behind it.
 
 The video ends abruptly.
-'''
+```
 
 &nbsp;
  
 ### <center>Sample 2</center>
-![test1](./assets/img/sample2.gif)
+
+<iframe width="420" height="315" src="./assets/vid/test1.mp4" frameborder="0" allowfullscreen></iframe>
+
 <details>
   <summary>
     Annotation
@@ -260,7 +262,9 @@ The clip ends abruptly.
 &nbsp;
  
 ### <center>Sample 3</center>
-![test1](./assets/img/sample3.gif)
+
+<iframe width="420" height="315" src="./assets/vid/test2.mp4" frameborder="0" allowfullscreen></iframe>
+
 <details>
   <summary>
     Annotation
