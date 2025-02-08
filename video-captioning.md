@@ -2,7 +2,8 @@
 
 ## <center>Video captioning samples</center>
 <center>Video captioning involves generating detailed textual descriptions of visual content within a video. This includes annotating each element, shape, and color, as well as their location on the screen and movement, all aimed at training video generation models. These are examples of annotations that can be adjusted according to the specific needs of the client.</center>
- 
+
+&nbsp;
  
 ### Sample 1
 ![test1](./assets/img/sample1.gif)
@@ -217,7 +218,8 @@ In the top right corner, the top of the light gray structure is more visible. It
 
 The video ends abruptly.
 </details>
- 
+
+&nbsp;
  
 ### Sample 2
 ![test1](./assets/img/sample2.gif)
@@ -255,7 +257,8 @@ The woman's lips extend further into a smile while she continues to look toward 
 
 The clip ends abruptly.
 </details>
- 
+
+&nbsp;
  
 ### Sample 3
 ![test1](./assets/img/sample3.gif)
