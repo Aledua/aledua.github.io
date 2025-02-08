@@ -6,7 +6,8 @@
 &nbsp;
  
 ### <center>Sample 1</center>
-![test1](./assets/img/sample1.gif)
+
+<iframe width="420" height="315" src="./assets/vid/test1.mp4" frameborder="0" allowfullscreen></iframe>
 
 '''
   CLIP 1 
