@@ -6,7 +6,7 @@
 
 ### Sample 1
 
-<video src="https://github.com/user-attachments/assets/95335285-2c6e-4565-b458-0fbddec5bc64.mp4"></video>
+![test1](./assets/img/sample1.gif)
 
 <details>
   <summary>
@@ -223,7 +223,7 @@ The video ends abruptly.
 
 ### Sample 2
 
-https://github.com/user-attachments/assets/07e2eb77-51d3-470c-a0ef-50cee13da9b7
+![test1](./assets/img/sample2.gif)
 
 <details>
   <summary>
@@ -263,7 +263,7 @@ The clip ends abruptly.
 
 ### Sample 3
 
-https://github.com/user-attachments/assets/3e30b8ac-893d-4994-a10c-5be8edd50c1f
+![test1](./assets/img/sample3.gif)
 
 <details>
   <summary>
