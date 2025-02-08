@@ -5,12 +5,12 @@
 
 &nbsp;
  
-### [<center>Sample 1</center>](./captioning/sample1.html)
+### [<center>Sample 1</center>](./pages/captioning/sample1.html)
 
 &nbsp;
  
-### [<center>Sample 2</center>](./captioning/sample2.html)
+### [<center>Sample 2</center>](./pages/captioning/sample2.html)
 
 &nbsp;
  
-### [<center>Sample 3</center>](./captioning/sample3.html)
+### [<center>Sample 3</center>](./pages/captioning/sample3.html)
