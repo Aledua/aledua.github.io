@@ -5,8 +5,8 @@
 
 &nbsp;
 
-  - type: markdown
-    content: |
+<div class="scroll-box">
+  
 CLIP 1 
 
 <00:00.000> - <00:05.759>
@@ -68,9 +68,4 @@ The cat slightly raises its gaze, looking toward the left corner of the screen.
 
 The video ends.
 
- card_mod:
-      style: |
-        ha-markdown {
-          max-height: 200px;
-          overflow-y: auto;
-        }
+</div>
