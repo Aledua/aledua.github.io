@@ -6,7 +6,7 @@
 &nbsp;
  
 ### <center>Sample 1</center>
-<center><iframe width="420" height="315" src="./sample1.mp3" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe src="./sample1.mp3" frameborder="0"></iframe></center>
 <div style="max-height: 200px; overflow-y: auto; padding: 10px; border: 1px solid #ccc; border-radius: 5px; white-space: pre-wrap; word-wrap: break-word;">
 {% comment %} 
 00:00 [eng_employee] hello welcome to McDonald's how can i help you?
