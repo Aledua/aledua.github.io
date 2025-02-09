@@ -1,7 +1,7 @@
 # [↩](https://aledua.github.io/)
 
 ## <center>Scripts</center>
-<center>This script was created as an automation tool for transcription tasks on a simple transcription platform. Its functions include creating keyboard shortcuts, inserting tags for categorizing various sound elements (conversation participants, background sounds, specific menu items from the store), adjusting the page to speed up the time between tasks, automating audio playback, and inserting timestamps, all while utilizing the available buttons on the screen and mouse movements.
+<center>This Autohotkey script was created as an automation tool for transcription tasks on a simple transcription platform. Its functions include creating keyboard shortcuts, inserting tags for categorizing various sound elements (conversation participants, background sounds, specific menu items from the store), adjusting the page to speed up the time between tasks, automating audio playback, and inserting timestamps, all while utilizing the available buttons on the screen and mouse movements.
 Additionally, it generates a minimalist overlay window on the page with a timer that automatically starts after each task, accompanied by a sound alert when the time limit is reached, as well as adding to a counter the total number of completed tasks.
 </center>
 
