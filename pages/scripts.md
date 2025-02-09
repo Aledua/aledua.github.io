@@ -8,8 +8,7 @@ Additionally, it generates a minimalist overlay window on the page with a timer 
 &nbsp;
 
 ![tool](./tool.png)
-
-_The tool in operation displays the remaining seconds and the counter on the right._
+_The tool in operation displays the remaining seconds for the current task and the counter on the right._
 
 &nbsp;
 
