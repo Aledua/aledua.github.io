@@ -8,6 +8,7 @@ Additionally, it generates a minimalist overlay window on the page with a timer 
 &nbsp;
 
 ![tool](./tool.png)
+
 _The tool in operation displays the remaining seconds and the counter on the right._
 
 <div style="max-height: 200px; overflow-y: auto; padding: 10px; border: 1px solid #ccc; border-radius: 5px; white-space: pre-wrap; word-wrap: break-word;">
