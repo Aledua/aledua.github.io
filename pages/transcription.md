@@ -6,7 +6,7 @@
 &nbsp;
  
 ### <center>Sample 1</center>
-<audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" src="./sample1.mp3">Your browser does not support the audio tag.</audio>
+<center><audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" src="./sample1.mp3">Your browser does not support the audio tag.</audio></center>
 <div style="max-height: 200px; overflow-y: auto; padding: 10px; border: 1px solid #ccc; border-radius: 5px; white-space: pre-wrap; word-wrap: break-word;">
 {% comment %} 
 00:00 [eng_employee] hello welcome to McDonald's how can i help you?
@@ -41,7 +41,7 @@
 &nbsp;
  
 ### <center>Sample 2</center>
-<audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" src="./sample2.mp3">Your browser does not support the audio tag.</audio>
+<center><audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" src="./sample2.mp3">Your browser does not support the audio tag.</audio></center>
 <div style="max-height: 200px; overflow-y: auto; padding: 10px; border: 1px solid #ccc; border-radius: 5px; white-space: pre-wrap; word-wrap: break-word;">
 ```
 00:00 [eng_employee] can i have your order please?
