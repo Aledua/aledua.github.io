@@ -41,9 +41,9 @@
 &nbsp;
  
 ### <center>Sample 2</center>
-<center><iframe width="420" height="315" src="./sample2.mp3" frameborder="0" allowfullscreen></iframe></center>
+<audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" src="./sample2.mp3">Your browser does not support the audio tag.</audio>
 <div style="max-height: 200px; overflow-y: auto; padding: 10px; border: 1px solid #ccc; border-radius: 5px; white-space: pre-wrap; word-wrap: break-word;">
-{% comment %}
+```
 00:00 [eng_employee] can i have your order please?
 00:01 [eng-customer] <side_speech></unintelligible><side_speech>
 00:02 [eng-customer] <side_speech> what do you guys want? </side_speech>
@@ -70,5 +70,5 @@
 00:35 [eng-customer] <side_speech></unintelligible></side_speech>
 00:35 [eng-customer] okay thank you.
 00:37 [eng_employee] uh huh.
-{% endcomment %}
+```
 </div>
