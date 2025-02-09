@@ -8,32 +8,36 @@
 ### <center>Sample 1</center>
 <center><audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" src="./sample1.mp3">Your browser does not support the audio tag.</audio></center>
 <div style="max-height: 200px; overflow-y: auto; padding: 10px; border: 1px solid #ccc; border-radius: 5px; white-space: pre-wrap; word-wrap: break-word;">
->00:00 [eng_employee] hello welcome to McDonald's how can i help you?
->00:02 [spa_customer] uh, hablan Español aquí? </pause>
->00:04 [spa_employee] sí hablo Español con qué le puedo ayudar?
->00:07 [spa_customer] ah tú tiene Papas Fritas? </pause>
->00:10 [spa_employee] Papas Fritas sí tenemos qué tamaño lo quiere?
->00:13 [spa_customer] eh Chiquitas no importa Chiquitas está bien.
->00:17 [spa_employee] Pequeñas o- okay algo más?
->00:20 [spa_customer] y um tú tiene Chicken Nuggets Po-Pollo Nugget?
->00:24 [spa_employee] Chicken Nuggets?
->00:25 [spa_customer] sí Pollo Nuggets. </pause> </int>
->00:27 [spa_employee] quiere Seis Diez o Veinte? </pause>
->00:30 [spa_customer] Diez está bien. <pause>
->00:32 [spa_employee] okay ah algo de tomar?
->00:34 [spa_customer] y dame un Sprite.
->00:37 [spa_customer] <side_speech> Sprite </side_speech>.
->00:37 [spa_customer] Sprite.
->00:39 [spa_employee] Sprite? okay ah en qué tamaño lo quieres Grande?
->00:42 [spa_customer] </int> me gusta Grande Grande.
->00:44 [spa_employee] Gran-.
->00:45 [spa_customer] mmhm.
->00:46 [spa_employee] </spk> okay okay algo más?
->00:48 [spa_customer] </int> y </pause> eso es todo muchas felicidades.
->00:52 [spa_employee] okay su total va a ser </pause> cómo?
->00:54 [spa_customer] <side_speech> gracias gracias <side_speech>.
->00:54 [spa_customer] gracias muchas gracias </laugh>.
->00:56 [spa_employee] </breathe></int>
+
+ ```
+00:00 [eng_employee] hello welcome to McDonald's how can i help you?
+00:02 [spa_customer] uh, hablan Español aquí? </pause>
+00:04 [spa_employee] sí hablo Español con qué le puedo ayudar?
+00:07 [spa_customer] ah tú tiene Papas Fritas? </pause>
+00:10 [spa_employee] Papas Fritas sí tenemos qué tamaño lo quiere?
+00:13 [spa_customer] eh Chiquitas no importa Chiquitas está bien.
+00:17 [spa_employee] Pequeñas o- okay algo más?
+00:20 [spa_customer] y um tú tiene Chicken Nuggets Po-Pollo Nugget?
+00:24 [spa_employee] Chicken Nuggets?
+00:25 [spa_customer] sí Pollo Nuggets. </pause> </int>
+00:27 [spa_employee] quiere Seis Diez o Veinte? </pause>
+00:30 [spa_customer] Diez está bien. <pause>
+00:32 [spa_employee] okay ah algo de tomar?
+00:34 [spa_customer] y dame un Sprite.
+00:37 [spa_customer] <side_speech> Sprite </side_speech>.
+00:37 [spa_customer] Sprite.
+00:39 [spa_employee] Sprite? okay ah en qué tamaño lo quieres Grande?
+00:42 [spa_customer] </int> me gusta Grande Grande.
+00:44 [spa_employee] Gran-.
+00:45 [spa_customer] mmhm.
+00:46 [spa_employee] </spk> okay okay algo más?
+00:48 [spa_customer] </int> y </pause> eso es todo muchas felicidades.
+00:52 [spa_employee] okay su total va a ser </pause> cómo?
+00:54 [spa_customer] <side_speech> gracias gracias <side_speech>.
+00:54 [spa_customer] gracias muchas gracias </laugh>.
+00:56 [spa_employee] </breathe></int>
+```
+
 </div>
 
 &nbsp;
@@ -42,7 +46,7 @@
 <center><audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" src="./sample2.mp3">Your browser does not support the audio tag.</audio></center>
 <div style="max-height: 200px; overflow-y: auto; padding: 10px; border: 1px solid #ccc; border-radius: 5px; white-space: pre-wrap; word-wrap: break-word;">
 
-     {% raw %}
+```
 00:00 [eng_employee] may i have your order please?
 00:01 [eng-customer] <side_speech></unintelligible><side_speech>
 00:02 [eng-customer] <side_speech> what do you guys want? </side_speech>
@@ -69,5 +73,6 @@
 00:35 [eng-customer] <side_speech></unintelligible></side_speech>
 00:35 [eng-customer] okay thank you.
 00:37 [eng_employee] uh huh.
-     {% endraw %}
+```
+
 </div>
